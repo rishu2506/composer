@@ -1,0 +1,24 @@
+{
+	"repositories": [
+	{
+		"type": "package",
+			"package": [{
+				"name": "thrift-service/thrift-service",
+				"source": {
+					"url": "https://github.com/rishu2506/Dropdown.git",
+					"reference": "4.0.0"
+				}
+			},
+			{
+				"name": "photoservice/photoservice",
+				"source": {
+					"url": "https://github.com/rishu2506/Resume.git",
+					"reference": "3.0.0"
+				}
+			}
+		]
+	}
+	]
+}
+
+
